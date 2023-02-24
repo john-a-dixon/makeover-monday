@@ -1,1 +1,3 @@
-# monday-makeover
+# Makeover Monday
+
+## Goal
